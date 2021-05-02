@@ -206,4 +206,4 @@ Java Doc: [Click here ](http://csweb01.csueastbay.edu/~zj2972/Project1/)
 [Youtube demonstration]()
 
 ## 7. Analytics Report
-[Report]()
+[Report](https://github.com/arunampalli/Hashtag-suggester-for-Facebook--Google-Cloud-Vision/wiki/8.-Analytics)
