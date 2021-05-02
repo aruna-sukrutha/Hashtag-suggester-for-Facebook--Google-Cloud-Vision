@@ -165,7 +165,7 @@ profiles.
 
 2. Facebook buttons like Share and Continue with Facebbok buttons are not working at times.
 
-3. Retrieving fb user images of a user is working in some systems only. For example, one of my teammates is able to see images in other system for not in their system for the application.
+3. Retrieving fb user images of a user is working in some systems only. For example, one of my teammates is able to see images in other system but not in their system for the application.
 
 Google Datastore:
 
