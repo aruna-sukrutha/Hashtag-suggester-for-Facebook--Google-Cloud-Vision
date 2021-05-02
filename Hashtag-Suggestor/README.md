@@ -21,7 +21,7 @@ Project 1 Proposal
 ## **1. Description:**
 
 ### 1.1 Code repository:
-[Github Code Repository:](https://github.com/arunampalli/Hashtag-suggester-for-Facebook--Google-Cloud-Vision/tree/main/Hashtag-Suggestor)
+[Github Code Repository](https://github.com/arunampalli/Hashtag-suggester-for-Facebook--Google-Cloud-Vision/tree/main/Hashtag-Suggestor)
 
 ### 1.2 Project Proposal:
 [Project Proposal](https://github.com/arunampalli/Hashtag-suggester-for-Facebook--Google-Cloud-Vision/wiki/Project-1-Proposal)
