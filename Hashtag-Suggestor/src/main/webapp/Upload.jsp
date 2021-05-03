@@ -389,7 +389,7 @@
                 // Logged into your app and Facebook
                 //document.getElementById('post').style.display="block";
                 testAPI();
-                pullimages();
+                pullimages(); // images retrieved function 
             }
 
             else {
